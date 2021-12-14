@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shd8" alt="shd8" /></a> </p>
 
-- 🌱 I’m currently working as [https://github.com/fer-dinbeat](fer-dinbeat) with **React** at a private project with Dinbeat.
+- 🌱 I’m currently working as [fer-dinbeat](https://github.com/fer-dinbeat) with **React** at a private project with Dinbeat.
 
 - 📝 I regularly write articles on [linkedin.com/in/fernando-gomez-graciani/](linkedin.com/in/fernando-gomez-graciani/)
 
