@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shd8" alt="shd8" /></a> </p>
 
-- 🌱 I’m currently working with React.js, Next.js an Vue.js projects.
+- 🌱 I’m currently working with a promising project with [IKEA](https://github.com/ingka-group-digital) .
 
 - I also worked as [fer-dinbeat](https://github.com/fer-dinbeat) with **React** at a private project with Dinbeat.
 
