@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [linkedin.com/in/fernando-gomez-graciani/](linkedin.com/in/fernando-gomez-graciani/)
 
-- 💬 Ask me about **Vue, React, JavaScript or TypeScript**
+- 💬 Ask me about **React, Next, Vue, JavaScript or TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
