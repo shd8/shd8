@@ -3,9 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shd8" alt="shd8" /></a> </p>
 
-- 🌱 I’m currently working with a promising project with [IKEA](https://github.com/ingka-group-digital) .
+- 🌱 I’m currently working with Roche company in an international promising project.
 
-- I also worked as [fer-dinbeat](https://github.com/fer-dinbeat) with **React** at a private project with Dinbeat.
+- I also worked at:
+  - Dinbeat, as [fer-dinbeat](https://github.com/fer-dinbeat) with **React** at a private project.
+  - [IKEA](https://github.com/ingka-group-digital), collaborating with an international project.
 
 - 📝 I regularly write articles on [linkedin.com/in/fernando-gomez-graciani/](linkedin.com/in/fernando-gomez-graciani/)
 
