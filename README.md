@@ -7,7 +7,8 @@
 
 - I also worked at:
   - Dinbeat, as [fer-dinbeat](https://github.com/fer-dinbeat) with **React** at a private project.
-  - [IKEA](https://github.com/ingka-group-digital), collaborating with an international project.
+  - [IKEA](https://github.com/ingka-group-digital), collaborating with an international project in their main webpage.
+  - [Roche](https://www.roche.com/), at an international project.
 
 - 📝 I regularly write articles on [linkedin.com/in/fernando-gomez-graciani/](linkedin.com/in/fernando-gomez-graciani/)
 
