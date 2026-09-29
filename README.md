@@ -1,30 +1,39 @@
-<h1 align="center">Hi 👋, I'm Fernando Gómez</h1>
-<h3 align="center">A passionate frontend developer from Spain!</h3>
+# Hi, I'm Fernando Gómez Graciani 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shd8" alt="shd8" /></a> </p>
+### Senior Full Stack Software Engineer · React · TypeScript · Next.js · Node.js
 
-- 🌱 I’m currently working with ArangoDB company in an international promising project.
+I build fast, well-tested web applications end to end: component architecture and UX in **React + TypeScript**, data layers with **TanStack Query / Redux**, and APIs in **Node.js**. 6+ years in the industry, currently **Senior Software Engineer at [ArangoDB](https://arangodb.com/)**, where I work on the product UI for a multi-model graph database.
 
-- I also worked at:
-  - Dinbeat, as [fer-dinbeat](https://github.com/fer-dinbeat) with **React** at a private project.
-  - [IKEA](https://github.com/ingka-group-digital), collaborating with an international project in their main webpage.
-  - [Roche](https://www.roche.com/), at an international project.
+📍 Barcelona, Spain · 🌍 Working remotely (CET) · ✅ **Open to remote Full Stack / Frontend / Software Engineer roles**
 
-- 📝 I regularly write articles on [linkedin.com/in/fernando-gomez-graciani/](linkedin.com/in/fernando-gomez-graciani/)
+**🌐 Portfolio:** [fernando-gomez-graciani.vercel.app](https://fernando-gomez-graciani.vercel.app) · **💼 LinkedIn:** [in/fernando-gomez-graciani](https://www.linkedin.com/in/fernando-gomez-graciani/) · **✉️ Email:** shadyfast8.services@gmail.com
 
-- 💬 Ask me about **React, Next, Vue, JavaScript or TypeScript**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/fernando-gomez-graciani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/fernando-gomez-graciani/" height="30" width="40" /></a>
-<a href="https://instagram.com/shadyfast8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shadyfast8" height="30" width="40" /></a>
+### 💼 Experience
+
+| | Role | Company | |
+|---|---|---|---|
+| 2023 – now | Senior Software Engineer | **ArangoDB** | Graph database product UI, React + TypeScript, remote |
+| 2022 – 2023 | Frontend Developer | **Accenture** | International projects for IKEA and Roche |
+| 2021 – 2022 | Frontend Developer | **Dinbeat** | React product development, Barcelona |
+| 2020 – 2021 | Frontend Developer | **IRIUM** | Web applications, Mallorca |
+| 2021 | Full Stack Bootcamp | **ISDI Coders (Skylab)** | MERN stack, TDD |
+
+### 🛠️ Stack
+
+- **Frontend:** React · TypeScript · Next.js · Redux · TanStack Query · Vue.js · Material UI · Chakra UI · Sass
+- **Backend:** Node.js · Express · MongoDB · Firebase · REST APIs · Auth0 / JWT
+- **Testing & quality:** Jest · Testing Library · Cypress · SonarQube · ESLint · Prettier
+- **Tooling:** Git · GitHub Actions · Vercel · AWS · Webpack · Figma · Jira
+
+### 💬 Ask me about
+
+React performance, frontend architecture, TypeScript, server state with TanStack Query, Next.js, and building UIs for data-heavy products.
+
+---
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=shd8&show_icons=true&locale=en" alt="Fernando Gómez Graciani's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shd8&layout=compact" alt="Fernando Gómez Graciani's top languages" height="165" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shd8&show_icons=true&locale=en&layout=compact" alt="shd8" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shd8&show_icons=true&locale=en" alt="shd8" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shd8" alt="shd8" /></p>
