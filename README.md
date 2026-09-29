@@ -31,9 +31,10 @@ I build fast, well-tested web applications end to end: component architecture an
 
 React performance, frontend architecture, TypeScript, server state with TanStack Query, Next.js, and building UIs for data-heavy products.
 
----
+### 🚀 Featured projects
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shd8&show_icons=true&locale=en" alt="Fernando Gómez Graciani's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shd8&layout=compact" alt="Fernando Gómez Graciani's top languages" height="165" />
-</p>
+- **[fernando-portfolio](https://github.com/shd8/fernando-portfolio)**: my portfolio. Next.js, React, TypeScript, SEO and structured data, 3D scenes with Spline
+- **[whatsnext](https://github.com/shd8/whatsnext)**: full stack WhatsApp clone. Next.js, Redux and TypeScript frontend, Node.js + Express backend
+- **[podcaster](https://github.com/shd8/podcaster)**: podcast browser and player built with Next.js, React and TypeScript on the iTunes API
+- **[shd8-components](https://github.com/shd8/shd8-components)**: reusable React component library written in TypeScript
+- **[evolmind-voices](https://github.com/shd8/evolmind-voices)**: Vue.js + TypeScript frontend app
