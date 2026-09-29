@@ -2,7 +2,7 @@
 
 ### Senior Full Stack Software Engineer · React · TypeScript · Next.js · Node.js
 
-I build fast, well-tested web applications end to end: component architecture and UX in **React + TypeScript**, data layers with **TanStack Query / Redux**, and APIs in **Node.js**. 6+ years in the industry, currently **Senior Software Engineer at [ArangoDB](https://arangodb.com/)**, where I work on the product UI for a multi-model graph database.
+I build fast, well-tested web applications end to end: component architecture and UX in **React + TypeScript**, data layers with **TanStack Query / Redux**, and APIs in **Node.js** and **Python (FastAPI)**. 6+ years in the industry, currently **Senior Fullstack Developer at [ArangoDB](https://arangodb.com/)**, where I build graph visualization (Cytoscape.js, 1,000+ nodes) and GraphRAG tooling, from the React UI down to FastAPI/Node.js services.
 
 📍 Barcelona, Spain · 🌍 Working remotely (CET) · ✅ **Open to remote Full Stack / Frontend / Software Engineer roles**
 
@@ -14,18 +14,18 @@ I build fast, well-tested web applications end to end: component architecture an
 
 | | Role | Company | |
 |---|---|---|---|
-| 2023 – now | Senior Software Engineer | **ArangoDB** | Graph database product UI, React + TypeScript, remote |
-| 2022 – 2023 | Frontend Developer | **Accenture** | International projects for IKEA and Roche |
-| 2021 – 2022 | Frontend Developer | **Dinbeat** | React product development, Barcelona |
-| 2020 – 2021 | Frontend Developer | **IRIUM** | Web applications, Mallorca |
-| 2021 | Full Stack Bootcamp | **ISDI Coders (Skylab)** | MERN stack, TDD |
+| 2023 – now | Senior Fullstack Developer | **ArangoDB** | Graph visualization, GraphRAG, SSE→polling migration, 60% fewer API calls |
+| 2022 – 2023 | Fullstack Developer | **Accenture** | International web app extended to 10 new markets, Next.js + Node.js |
+| 2021 – 2022 | Frontend Developer | **Dinbeaters** | Dev standards that cut code review time 30%, Hooks migration |
+| 2020 – 2021 | Frontend Developer | **IRIUM** | Testing framework: 80% coverage, 25% fewer defects |
+| 2021 | Full Stack Bootcamp | **ISDI Coders** | Elite Performance Award (top 5%) |
 
 ### 🛠️ Stack
 
-- **Frontend:** React · TypeScript · Next.js · Redux · TanStack Query · Vue.js · Material UI · Chakra UI · Sass
-- **Backend:** Node.js · Express · MongoDB · Firebase · REST APIs · Auth0 / JWT
-- **Testing & quality:** Jest · Testing Library · Cypress · SonarQube · ESLint · Prettier
-- **Tooling:** Git · GitHub Actions · Vercel · AWS · Webpack · Figma · Jira
+- **Frontend:** React · TypeScript · Next.js · TanStack Query · Zustand · Redux Toolkit · Cytoscape.js · D3 · shadcn/ui · Vue.js
+- **Backend:** Node.js · Express · Python (FastAPI, Pydantic) · PostgreSQL · ArangoDB (AQL) · MongoDB · GraphQL · REST API design
+- **Testing & quality:** Jest · Testing Library · Playwright · Cypress · Trivy · ESLint
+- **Tooling:** Docker · Kubernetes · GitHub Actions · AWS (Cloud Practitioner) · Vite · Turborepo · Claude Code
 
 ### 💬 Ask me about
 
